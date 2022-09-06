@@ -22,8 +22,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Greeting("First commit ever")
-                    this is error
+                    Greeting("Android")
+                    cysdc
                 }
             }
         }
