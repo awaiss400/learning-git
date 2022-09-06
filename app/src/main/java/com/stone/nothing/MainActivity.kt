@@ -23,7 +23,10 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("First commit ever")
-//                    this is error
+
+     //                    this is error
+                    println("local chnge")
+
                 }
             }
         }
