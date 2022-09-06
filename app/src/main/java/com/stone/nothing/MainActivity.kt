@@ -26,7 +26,7 @@ class MainActivity : ComponentActivity() {
 
      //                    this is error
                     println("local chnge")
-                    println("experimaneal")
+                    println("experimaneal ok i get")
 
                 }
             }
