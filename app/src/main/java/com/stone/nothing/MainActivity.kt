@@ -26,6 +26,9 @@ class MainActivity : ComponentActivity() {
 
      //                    this is error
                     println("local chnge")
+                    println("experimaneal")
+                    println("devlopment branch")
+
                     println("experimaneal ok i get")
 //switched to master branch
                     //ook
