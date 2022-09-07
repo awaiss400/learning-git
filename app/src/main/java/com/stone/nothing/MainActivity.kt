@@ -27,7 +27,10 @@ class MainActivity : ComponentActivity() {
      //                    this is error
                     println("local chnge")
                     println("experimaneal ok i get")
-
+//switched to master branch
+                    //ook
+                    //ofjo
+//                    shch
                 }
             }
         }
